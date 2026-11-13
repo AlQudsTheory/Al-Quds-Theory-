@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Si utilizas este modelo teórico o su fórmula matemática, por favor cita este trabajo utilizando los siguientes metadatos."
+authors:
+  - family-names: "Tapia"
+    given-names: "Abu Faisal Sergio"
+title: "Teoría Contra-Geopolítica Anticolonialista de Al-Quds: Marco de Síntesis Decolonial de Asia Occidental"
+version: "1.0.0"
+date-released: "2026-11-13"
+url: "https://github.com"
+repository-code: "https://github.com"
+keywords:
+  - "geopolitics"
+  - "decolonial"
+  - "palestine"
+  - "al-quds"
+  - "west-asia"
+  - "international-relations"
+abstract: "Modelo geopolítico decolonial de Asia Occidental y Palestina que propone un marco analítico y operativo sintetizado formalmente mediante la ecuación T = Q · (CG + A) / H."

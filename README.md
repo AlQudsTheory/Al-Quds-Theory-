@@ -10,8 +10,8 @@ El modelo postula que la descolonización de la región de Asia Occidental es el
 
 ---
 
-### II. El Marco de Síntesis Decolonial (La Fórmula Matemática)
-Para sistematizar las dinámicas de poder, dominación y resistencia, la teoría traduce el comportamiento geopolítico mediante una ecuación de síntesis formal:
+### II. El Marco de Síntesis Decolonial 
+Para sistematizar las dinámicas de poder, dominación y resistencia, la teoría traduce el comportamiento geopolítico mediante un modelo de síntesis formal:
 
 $$T = Q \cdot \frac{CG + A}{H}$$
 

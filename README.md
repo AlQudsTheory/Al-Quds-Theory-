@@ -29,3 +29,23 @@ Donde cada variable representa una categoría analítica y operativa:
 * **Descentrar el Poder Teórico:** Desplazar las academias occidentales (realistas y liberales) como las únicas autorizadas para dictar el orden político global.
 * **Neutralizar la Dependencia Narrativa:** Establecer plataformas e instituciones propias para articular la defensa de los derechos de los pueblos soberanos.
 * **Estructurar la Multipolaridad:** Demostrar que la estabilidad del sistema internacional depende de la resolución justa del eje palestino.
+# Licencia
+
+Este trabajo está bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional](http://creativecommons.org).
+
+    Atribución — Usted debe dar crédito de manera adecuada, brindar un enlace a la licencia, e indicar si se han realizado cambios. Puede hacerlo en cualquier forma razonable, pero no de forma tal que sugiera que el licenciante lo respalda a usted o al uso que hace del trabajo.
+
+    CompartirIgual — Si remezcla, transforma o crea a partir del material, debe distribuir sus contribuciones bajo la misma licencia que el original.
+
+---
+
+### Cómo citar este trabajo
+
+Si utilizas la Teoría de Al-Quds o su fórmula matemática en investigaciones, artículos o proyectos, por favor utiliza el siguiente formato de citación académica:
+
+**Formato APA:**
+> Tapia, A. F. S. (2026). *Teoría Contra-Geopolítica Anticolonialista de Al-Quds: Marco de Síntesis Decolonial de Asia Occidental*. Repositorio GitHub: AlQudsTheory/Al-Quds-Theory-. https://github.com
+
+**Formato ISO 690:**
+> TAPIA, Abu Faisal Sergio, 2026. *Teoría Contra-Geopolítica Anticolonialista de Al-Quds: Marco de Síntesis Decolonial de Asia Occidental* [en línea]. Repositorio GitHub. Disponible en: https://github.com
+> 

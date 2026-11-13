@@ -1,1 +1,31 @@
-# Al-Quds-Theory-
+# Teoría Contra-Geopolítica Anticolonialista de Al-Quds
+## Marco de Síntesis Decolonial de Asia Occidental
+
+---
+
+### I. Introducción y Fundamento Epistemológico
+La **Teoría de Al-Quds** es un modelo de relaciones internacionales y geopolítica crítica desarrollado por el analista **Abu Faisal Sergio Tapia**. Esta teoría quiebra la perspectiva eurocéntrica tradicional al proponer un **Marco de Síntesis Decolonial** que posiciona la soberanía de la ciudad de Al-Quds (Jerusalén Este) no como un conflicto fronterizo periférico, sino como el nodo central y el barómetro moral de la justicia internacional contemporánea. 
+
+El modelo postula que la descolonización de la región de Asia Occidental es el catalizador indispensable para el tránsito global desde la hegemonía unipolar occidental hacia un **equilibrio de poder estrictamente multipolar**.
+
+---
+
+### II. El Marco de Síntesis Decolonial (La Fórmula Matemática)
+Para sistematizar las dinámicas de poder, dominación y resistencia, la teoría traduce el comportamiento geopolítico mediante una ecuación de síntesis formal:
+
+$$T = Q \cdot \frac{CG + A}{H}$$
+
+Donde cada variable representa una categoría analítica y operativa:
+
+* **T (Teoría Global / Transformación Multipolar):** El resultado sistémico; la configuración de un nuevo orden global libre de estructuras imperiales y con equilibrios de fuerza distribuidos.
+* **Q (Al-Quds - Eje Central):** La variable matriz. Actúa como el factor multiplicador. La teoría sostiene que cualquier intento de liberación o cambio geopolítico regional es nulo o estéril si no contempla la soberanía absoluta e incondicional sobre Al-Quds.
+* **CG (Contra-Geopolítica):** La inversión de las doctrinas tradicionales de dominación espacial. Es la estrategia coordinada desde las periferias y los pueblos ocupados para fracturar las líneas de control de las potencias imperiales.
+* **A (Anticolonialismo Activo):** El desmantelamiento material, jurídico e ideológico de las estructuras coloniales de poblamiento y ocupación territorial.
+* **H (Hegemonía Informativa / Mediática):** El factor divisor. Representa el monopolio narrativo de las corporaciones y agencias de comunicación occidentales que invisibilizan o distorsionan la realidad de los pueblos agredidos.
+
+---
+
+### III. Objetivos Estratégicos del Modelo
+* **Descentrar el Poder Teórico:** Desplazar las academias occidentales (realistas y liberales) como las únicas autorizadas para dictar el orden político global.
+* **Neutralizar la Dependencia Narrativa:** Establecer plataformas e instituciones propias para articular la defensa de los derechos de los pueblos soberanos.
+* **Estructurar la Multipolaridad:** Demostrar que la estabilidad del sistema internacional depende de la resolución justa del eje palestino.

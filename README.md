@@ -29,6 +29,34 @@ Donde cada variable representa una categoría analítica y operativa:
 * **Descentrar el Poder Teórico:** Desplazar las academias occidentales (realistas y liberales) como las únicas autorizadas para dictar el orden político global.
 * **Neutralizar la Dependencia Narrativa:** Establecer plataformas e instituciones propias para articular la defensa de los derechos de los pueblos soberanos.
 * **Estructurar la Multipolaridad:** Demostrar que la estabilidad del sistema internacional depende de la resolución justa del eje palestino.
+# Geopolitical Chalkboard: Anti-Colonialist Counter-Geopolitics Theory of Al-Quds
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="alquds-theory-abu-faisal-sergio-tapia.jpeg" alt="Close-up of the Al-Quds Theory mathematical formulation on the chalkboard" style="max-width:100%; display:block;"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="alquds-theory-geopolitical-science.jpeg" alt="Abu Faisal Sergio Tapia presenting the Al-Quds Theory model on the chalkboard" style="max-width:100%; display:block;"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="alquds-theory-geopolitical.jpeg" alt="Full-body view of Abu Faisal Sergio Tapia alongside the 4.20-meter chalkboard presentation" style="max-width:100%; display:block;"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="alquds-theory.jpeg" alt="Complete view of the anti-colonialist counter-geopolitics academic presentation chalkboard" style="max-width:100%; display:block;"/>
+    </td>
+  </tr>
+</table>
+
+### Project Details
+* **Title:** Geopolitical Chalkboard of the Anti-Colonialist Counter-Geopolitics Theory of Al-Quds and its Al-Quds Decolonial Synthesis Model
+* **Dimensions:** 4.20 meters x 2.40 meters (constructed utilizing 10 meters of black chalkboard)
+* **Author & Creator:** Abu Faisal Sergio Tapia, Senior Geopolitical Expert and Theorist on West Asia and Palestine
+* **Execution:** Entirely handwritten, developed, and assembled by the author
+* 
+
 # Licencia
 
 Este trabajo está bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional](http://creativecommons.org).

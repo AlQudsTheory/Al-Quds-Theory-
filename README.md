@@ -1,19 +1,19 @@
-# Teoría Contra-Geopolítica Anticolonialista de Al-Quds
-## Marco de Síntesis Decolonial de Asia Occidental
+# Teoría Contra-Geopolítica Anticolonialista de Al-Quds y su Modelo de Síntesis Decolonial de Al-Quds 
 
 ---
 
 ### I. Introducción y Fundamento Epistemológico
-La **Teoría de Al-Quds** es un modelo de relaciones internacionales y geopolítica crítica desarrollado por el analista **Abu Faisal Sergio Tapia**. Esta teoría quiebra la perspectiva eurocéntrica tradicional al proponer un **Marco de Síntesis Decolonial** que posiciona la soberanía de la ciudad de Al-Quds (Jerusalén Este) no como un conflicto fronterizo periférico, sino como el nodo central y el barómetro moral de la justicia internacional contemporánea. 
+La **Teoría de Al-Quds** es un modelo de relaciones internacionales y geopolítica crítica desarrollado por el experto teórico geopolitico **Abu Faisal Sergio Tapia**. Esta teoría quiebra la perspectiva eurocéntrica tradicional al proponer un **Modelo de Síntesis Decolonial de Al-Quds** que posiciona la soberanía de la ciudad de Al-Quds (Jerusalén Este) no como un conflicto fronterizo periférico, sino como el nodo central y el barómetro moral de la justicia internacional contemporánea. 
 
 El modelo postula que la descolonización de la región de Asia Occidental es el catalizador indispensable para el tránsito global desde la hegemonía unipolar occidental hacia un **equilibrio de poder estrictamente multipolar**.
 
 ---
 
-### II. El Marco de Síntesis Decolonial 
+### II. El Modelo de Síntesis Decolonial de Al-Quds 
 Para sistematizar las dinámicas de poder, dominación y resistencia, la teoría traduce el comportamiento geopolítico mediante un modelo de síntesis formal:
 
-$$T = Q \cdot \frac{CG + A}{H}$$
+[T=Q•{CG + A} / H]
+
 
 Donde cada variable representa una categoría analítica y operativa:
 
